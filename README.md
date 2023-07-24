@@ -17,5 +17,4 @@
 3. 다양한 위젯 제공으로 인한 생산성 증대<br/><br/><br/>
 
 ## 참고 
-https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ko#8
-
+https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ko#0
